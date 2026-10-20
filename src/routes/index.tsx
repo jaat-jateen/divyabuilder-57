@@ -23,7 +23,7 @@ function Index() {
   return (
     <>
       <section className="relative min-h-[88vh] overflow-hidden bg-navy-deep text-navy-foreground">
-        <img src={hero} alt="Construction site with JCB, trucks and crane" width={1920} height={1088} className="absolute inset-0 h-full w-full object-cover opacity-55" />
+        <img src={hero} alt="Construction site with JCB, trucks and crane" width={1920} height={1088} className="absolute inset-0 h-full w-full object-cover opacity-80" />
         <div className="absolute inset-0 bg-gradient-to-r from-navy-deep via-navy-deep/70 to-transparent" />
         <div className="relative mx-auto flex min-h-[88vh] max-w-7xl flex-col justify-center px-4 py-20">
           <p className="font-semibold uppercase tracking-widest text-primary">Materials · Machinery · Site support</p>
